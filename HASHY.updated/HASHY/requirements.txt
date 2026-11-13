@@ -1,0 +1,1 @@
+# HASHY uses only the Python standard library (tkinter, sqlite3).
